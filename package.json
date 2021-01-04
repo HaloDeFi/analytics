@@ -2,7 +2,7 @@
   "name": "@halodefi/analytics",
   "private": true,
   "homepage": "https://info.halodefi.org",
-  "devDependencies": {
+  "dependencies": {
     "@popperjs/core": "^2.4.2",
     "@reach/portal": "^0.10.3",
     "@reach/router": "^1.2.1",
